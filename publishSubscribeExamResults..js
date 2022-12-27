@@ -27,7 +27,4 @@ function publishSubscribeExamResults() {
   });
   
   examResults.publish('Exam results are out!');
-  // Output:
-  // Student 1 received message: Exam results are out!
-  // Student 2 received message: Exam results are out!
   
